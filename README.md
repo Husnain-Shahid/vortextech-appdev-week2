@@ -1,4 +1,4 @@
-# VortexTech AppDev - Week 1: Task Manager Application
+# VortexTech AppDev - Week 2: Task Manager Application
 
 A clean, dynamic Task Management app built using Flutter. This project demonstrates state management with `StatefulWidget`, handling user inputs, rendering dynamic lists using `ListView.builder`, and interactive UI updates.
 
